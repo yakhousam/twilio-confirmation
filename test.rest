@@ -1,0 +1,7 @@
+
+
+POST http://localhost:3000/reminder
+Content-Type: application/x-www-form-urlencoded
+
+time=2020-05-30
+&userId=123456789
